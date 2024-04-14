@@ -1,18 +1,19 @@
-# Pixel Art Maker Project
+# Pixel Art Maker
 
-## Table of Contents
+Welcome to the Pixel Art Maker project!
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## Description
+This project offers a simple Pixel Art Maker application where users can unleash their creativity by creating pixel art designs. The application allows users to color individual pixels on a grid, providing a canvas for artistic expression. It also includes basic HTML and CSS for the user interface.
 
-## Instructions
+## Features
+- Interactive grid for creating pixel art designs
+- Color picker to choose from a variety of colors
+- Clear button to reset the grid
+- Simple and intuitive user interface
 
-To get started, open `designs.js` and start building out the app's functionality.
+## Technologies Used
+- JavaScript for the main functionality
+- HTML for the structure of the web page
+- CSS for styling and layout
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-# Pixel-Art-Maker
-# Pixel-Art-Maker
+Explore the world of pixel art and let your imagination run wild with this fun and engaging project.
